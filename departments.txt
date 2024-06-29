@@ -1,0 +1,47 @@
+Department ID: 1
+Department Name: Human Resources
+Location: Head Office
+Employees:
+ - 1: John Doe (john.doe@example.com)
+ - 2: Mary Jones (mary.jones@example.com)
+-------------------
+Department ID: 2
+Department Name: Finance
+Location: Head Office
+Employees:
+ - 3: Jane Smith (jane.smith@example.com)
+ - 4: Robert Brown (robert.brown@example.com)
+-------------------
+Department ID: 3
+Department Name: Information Technology
+Location: Tech Building
+Employees:
+ - 5: Alice Johnson (alice.johnson@example.com)
+ - 6: David Wilson (david.wilson@example.com)
+-------------------
+Department ID: 4
+Department Name: Marketing
+Location: Marketing Building
+Employees:
+ - 7: Michael Taylor (michael.taylor@example.com)
+ - 8: Emily Davis (emily.davis@example.com)
+-------------------
+Department ID: 5
+Department Name: Sales
+Location: Sales Office
+Employees:
+ - 9: Charlie Davis (charlie.davis@example.com)
+ - 10: Olivia Martinez (olivia.martinez@example.com)
+-------------------
+Department ID: 13
+Department Name: Yeni Departman
+Location: 28 May filali
+Employees:
+ - 13: test testov (test@.com)
+-------------------
+Department ID: 14
+Department Name: New Department
+Location: Nerimanov filali
+Employees:
+ - 14: client clientov (test@.com)
+-------------------
